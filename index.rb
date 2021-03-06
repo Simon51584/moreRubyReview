@@ -1,6 +1,9 @@
 class Dog 
-    
-
+    {
+        chase: Dog.new,
+        bob: Dog.new,
+        larry: Dog.new
+    }
 end 
 
 class Owner
