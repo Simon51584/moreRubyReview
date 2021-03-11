@@ -1,5 +1,10 @@
 class Dog 
    
+    def talk
+        Speak = "bark"
+    end
+    
+
 end 
 
 
