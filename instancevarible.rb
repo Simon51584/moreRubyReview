@@ -9,3 +9,5 @@ class Greeting
 end
 
 sup = Greeting.new
+hiya = Greeting.new
+
