@@ -10,4 +10,4 @@ end
 
 sup = Greeting.new
 hiya = Greeting.new
-
+spartan = Greeting.new
